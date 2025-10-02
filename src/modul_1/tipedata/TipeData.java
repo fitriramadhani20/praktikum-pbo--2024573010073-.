@@ -12,7 +12,7 @@ public class TipeData {
         alamat = "Tambon Tunong";
         usia = 19;
         tinggi = 155;
-        jk = "p" ;
+        jk = 'p' ;
         beratbadan = 42.1f ;
 
         System.out.println("Nama:" + nama);
